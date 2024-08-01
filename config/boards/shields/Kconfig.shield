@@ -1,0 +1,2 @@
+config SHIELD_MFMACRO
+    def_bool $(shields_list_contains,MFMacro)

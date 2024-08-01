@@ -1,0 +1,6 @@
+if SHIELD_MFMACRO
+
+config ZMK_KEYBOARD_NAME
+    default "MF Macro"
+
+endif
